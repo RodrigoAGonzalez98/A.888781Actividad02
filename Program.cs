@@ -96,6 +96,7 @@ namespace ConsoleApp1
 							Console.WriteLine($"Le corresponde la orden número: {listaoperadores.Count}");
 				}
 			}while (Nuevovalor2 != 0);
+			Console.WriteLine();
 		}
 	}
 }
