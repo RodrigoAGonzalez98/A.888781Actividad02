@@ -96,6 +96,8 @@ namespace A888781.Actividad02
 							Console.WriteLine($"Le corresponde la orden: { listaordenes.Count}");
 				}
 			}while (Nuevovalor2 != 0);
+
+			Console.ReadLine();
 			
 		}
 	}
