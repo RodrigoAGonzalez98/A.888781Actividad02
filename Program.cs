@@ -93,8 +93,7 @@ namespace ConsoleApp1
 						Console.WriteLine("No ha ingresado un entero válido");
 					}
 					else
-							//Console.WriteLine($"Le corresponde la orden número: {listaoperadores.Count}");
-							Console.WriteLine($"Orden: { listaordenes.Count}");
+							Console.WriteLine($"Le corresponde la orden: { listaordenes.Count}");
 				}
 			}while (Nuevovalor2 != 0);
 			
